@@ -45,6 +45,15 @@ I am a developer focused on making things i have fun with. I enjoy building syst
 
 ---
 
+## Software
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="50">
+</p>
+
+---
+
 ## Socials
 <p align="center">
   <a href="#"><img src="https://cdn.simpleicons.org/youtube" height="40"></a>
