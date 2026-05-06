@@ -11,7 +11,7 @@ I'm Raphael, but feel free to call me Rael. I'm a 15-year-old developer based in
 <img src="https://cdn.simpleicons.org/nextcloud" height="40">
 
 ### Future Goals
-![Socials](https://skillicons.dev/icons?i=python,rust,actix,ts,react,vue,tailwind,mongodb,tauri,gradle) 
+![Socials](https://skillicons.dev/icons?i=python,rust,actix,ts,kotlin,react,vue,tailwind,mongodb,tauri,gradle) 
 <img src="https://docs.fabricmc.net/logo.png" height="50">
 <img src="https://docs.neoforged.net/img/logo.svg" height="50">
 
