@@ -2,7 +2,7 @@
 I'm Raphael, but feel free to call me Rael. I'm a 15-year-old developer based in Germany who focuses on creating fun projects. I enjoy experimenting with new technologies and learning about modern technology.
 
 ### Skills
-![Skills](https://skillicons.dev/icons?i=java,html,css,git,github,md)
+![Skills](https://skillicons.dev/icons?i=java,maven,html,css,git,github)
 <img src="https://cdn.simpleicons.org/mariadb" height="50">
 <img src="https://docs.papermc.io/_astro/papermc_logo.min_ZyJGbO.webp" height="50">
 <img src="https://static.spigotmc.org/img/spigot.png" height="50">
