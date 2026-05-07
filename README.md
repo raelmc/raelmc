@@ -7,16 +7,19 @@ I'm Raphael, but feel free to call me Rael. I'm a 15-year-old developer based in
 <img src="https://static.spigotmc.org/img/spigot.png" height="50">
 
 ### Currently Learning
-![Currently_learning](https://skillicons.dev/icons?i=js,discordjs,nodejs,postgresql,docker,raspberrypi)
-<img src="https://cdn.simpleicons.org/nextcloud" height="40">
+![Currently_learning](https://skillicons.dev/icons?i=js,nodejs,discordjs,postgresql,docker,raspberrypi)
 
 ### Future Goals
-![Socials](https://skillicons.dev/icons?i=python,rust,actix,ts,kotlin,react,vue,tailwind,mongodb,tauri,gradle) 
+![Future_Goals](https://skillicons.dev/icons?i=rust,actix,ts,spring,vue,tailwind,mongodb,mysql,sqlite,tauri,gradle)
 <img src="https://docs.fabricmc.net/logo.png" height="50">
 <img src="https://docs.neoforged.net/img/logo.svg" height="50">
 
+## Technologies I'm ready to learn if I needed
+![Goals2](https://skillicons.dev/icons?i=python,react,electron,alpinejs,svelte,kotlin) 
+
 ## Software
-![Socials](https://skillicons.dev/icons?i=vscode,idea) 
+![Socials](https://skillicons.dev/icons?i=vscode,idea)
+<img src="https://cdn.simpleicons.org/nextcloud" height="40">
 
 ## Socials
   <a href="https://youtube.com/@raelllmc"><img src="https://cdn.simpleicons.org/youtube" height="40"></a>
