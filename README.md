@@ -4,15 +4,15 @@ I'm Raphael, but feel free to call me Rael. I'm a 15-year-old developer based in
 ### Skills
 ![Skills](https://skillicons.dev/icons?i=java,maven,html,css,git,github)
 <img src="https://cdn.simpleicons.org/mariadb" height="50">
-<img src="https://docs.papermc.io/_astro/papermc_logo.min_ZyJGbO.webp" height="50">
+<img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="50">
 <img src="https://static.spigotmc.org/img/spigot.png" height="50">
 
 ### Currently Learning
-![Currently_learning](https://skillicons.dev/icons?i=js,nodejs,discordjs,postgresql,docker,raspberrypi)
+![Currently_learning](https://skillicons.dev/icons?i=js,docker)
+<img src="https://docs.fabricmc.net/logo.png" height="50">
 
 ### Future Goals
-![Future_Goals](https://skillicons.dev/icons?i=rust,actix,ts,spring,vue,tailwind,mongodb,mysql,sqlite,tauri,gradle)
-<img src="https://docs.fabricmc.net/logo.png" height="50">
+![Future_Goals](https://skillicons.dev/icons?i=rust,actix,ts,nodejs,discordjs,postgresql,spring,vue,tailwind,mongodb,mysql,sqlite,tauri,gradle)
 <img src="https://docs.neoforged.net/img/logo.svg" height="50">
 
 ## Software
